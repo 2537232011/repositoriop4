@@ -4,5 +4,6 @@ private int x;
 public ClaseA(){
 x=0;
 y=0;
+   }
  }
 }
